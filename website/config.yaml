@@ -42,8 +42,8 @@ params:
 
   # About
   disable_about: false
-, hi.nama saya emilia.saya bersekolah di smkn pasirian. hoby saya memasak."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+descripe_l1_person: hi.nama saya emilia.saya bersekolah di smkn pasirian. hoby saya memasak."
+  descripe_l2_person: ""
   skills:
     - name: TPAV
       percentage: 90
