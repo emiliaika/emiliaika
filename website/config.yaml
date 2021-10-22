@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "emil-profile"
 theme: "./.."
 relativeURLs: true
 
@@ -33,7 +33,7 @@ params:
   profile_image: "/images/profile.png"
   name: "Emilia Ika Sinta Wati"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "siswi"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
